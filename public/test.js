@@ -1,0 +1,1 @@
+console.log('通过js加载的文件')
